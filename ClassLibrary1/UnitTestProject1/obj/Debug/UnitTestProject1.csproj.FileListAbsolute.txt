@@ -1,0 +1,32 @@
+c:\users\pjmendoza\documents\visual studio 2013\Projects\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\pjmendoza\documents\visual studio 2013\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\chromedriver.exe
+c:\users\pjmendoza\documents\visual studio 2013\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\pjmendoza\documents\visual studio 2013\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\pjmendoza\documents\visual studio 2013\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\ClassLibrary1.dll
+c:\users\pjmendoza\documents\visual studio 2013\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\WebDriver.dll
+c:\users\pjmendoza\documents\visual studio 2013\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+c:\users\pjmendoza\documents\visual studio 2013\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\ClassLibrary1.pdb
+c:\users\pjmendoza\documents\visual studio 2013\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\WebDriver.xml
+c:\users\pjmendoza\documents\visual studio 2013\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+c:\users\pjmendoza\documents\visual studio 2013\Projects\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\pjmendoza\documents\visual studio 2013\Projects\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\pjmendoza\Documents\Visual Studio 2013\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+C:\Users\pjmendoza\Documents\Visual Studio 2013\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\pjmendoza\Documents\Visual Studio 2013\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\pjmendoza\Documents\Visual Studio 2013\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\nunit.framework.xml
+P:\BDD\ClassLibrary1\UnitTestProject1\bin\Debug\chromedriver.exe
+P:\BDD\ClassLibrary1\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+P:\BDD\ClassLibrary1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+P:\BDD\ClassLibrary1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+P:\BDD\ClassLibrary1\UnitTestProject1\bin\Debug\ClassLibrary1.dll
+P:\BDD\ClassLibrary1\UnitTestProject1\bin\Debug\nunit.framework.dll
+P:\BDD\ClassLibrary1\UnitTestProject1\bin\Debug\TechTalk.SpecFlow.dll
+P:\BDD\ClassLibrary1\UnitTestProject1\bin\Debug\WebDriver.dll
+P:\BDD\ClassLibrary1\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+P:\BDD\ClassLibrary1\UnitTestProject1\bin\Debug\ClassLibrary1.pdb
+P:\BDD\ClassLibrary1\UnitTestProject1\bin\Debug\nunit.framework.xml
+P:\BDD\ClassLibrary1\UnitTestProject1\bin\Debug\WebDriver.xml
+P:\BDD\ClassLibrary1\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+P:\BDD\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+P:\BDD\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+P:\BDD\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

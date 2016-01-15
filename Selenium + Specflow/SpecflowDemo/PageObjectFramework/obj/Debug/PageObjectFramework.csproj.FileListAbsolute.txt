@@ -1,0 +1,8 @@
+P:\BDD\Selenium + Specflow\SpecflowDemo\PageObjectFramework\bin\Debug\PageObjectFramework.dll
+P:\BDD\Selenium + Specflow\SpecflowDemo\PageObjectFramework\bin\Debug\PageObjectFramework.pdb
+P:\BDD\Selenium + Specflow\SpecflowDemo\PageObjectFramework\bin\Debug\WebDriver.dll
+P:\BDD\Selenium + Specflow\SpecflowDemo\PageObjectFramework\bin\Debug\WebDriver.Support.dll
+P:\BDD\Selenium + Specflow\SpecflowDemo\PageObjectFramework\bin\Debug\WebDriver.xml
+P:\BDD\Selenium + Specflow\SpecflowDemo\PageObjectFramework\bin\Debug\WebDriver.Support.xml
+P:\BDD\Selenium + Specflow\SpecflowDemo\PageObjectFramework\obj\Debug\PageObjectFramework.dll
+P:\BDD\Selenium + Specflow\SpecflowDemo\PageObjectFramework\obj\Debug\PageObjectFramework.pdb
